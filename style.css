@@ -1,0 +1,64 @@
+button{
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    width: 45px;
+    cursor: pointer;
+    background-color: rgb(56, 84, 97);
+    border-radius: 25%;
+    border-color: aqua;  border-radius: 10%;
+  font-weight: bolder;
+  text-align: center;
+  color: blanchedalmond;
+}
+#btn{
+width: 100px;
+background-color: rgb(56, 84, 97);
+border-radius: 25%;
+border-color: aqua;}
+#btn1{
+    width: 100px;
+    background-color: rgb(56, 84, 97);
+    border-radius: 25%;
+    border-color: aqua;}
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.458),rgba(80, 93, 97, 0.708)),url(vachet.png);
+    background-size: cover;
+    background-position: center;
+}
+#in{
+    width:130px;
+    background: transparent;
+    margin: 0px 0;
+    outline:none;
+    border: none;
+    border-bottom: white solid 1px;
+    font-weight: bold;
+}
+
+#begin{
+    width:130px;
+    background: transparent;
+    margin: 0px 0;
+    outline:none;
+    border: none;
+    border-bottom: white solid 1px;
+    font-weight: bold;
+}
+#valide{
+    background-color: rgb(56, 84, 97);
+    border-radius: 25%;
+    border-color: aqua;
+}
+#btn2{
+    width: 100px;
+    background-color: rgb(56, 84, 97);
+    border-radius: 25%;
+    border-color: aqua;
+}
+h5{
+    font-size: 20px;
+    color: rgb(255, 255, 251);
+}
